@@ -15,7 +15,7 @@
         "@adapt-design-system/tokens": "^0.1.1",
         "@babel/runtime": "^7.10.5",
         "@prettier/plugin-xml": "^0.9.0",
-        "lodash": "^4.17.19",
+        "lodash": "^4.17.21",
         "prettier": "^2.0.5"
     }
 }
